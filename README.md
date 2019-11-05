@@ -14,9 +14,11 @@ An attack on image classifiers introduces unpredictable behavior for many comput
 
 For training model run:
 
-```
+```bash
 python3 main.py --model model_name --dataset dataset_name
 ```
+- Available value for model is example.
+- Available value for dataset is MNIST.
 
 ### Authors
 

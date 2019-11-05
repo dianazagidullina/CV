@@ -19,7 +19,7 @@ python3 main.py --model model_name --dataset dataset_name
 ```
 - Available value for model is example.
 - Available value for dataset is MNIST.
-- Use --train-batch-size, --test-batch-size, --epochs and --log-interval for as training/testing settings.
+- Use --train-batch-size, --test-batch-size, --epochs and --log-interval as training/testing settings.
 - Use --lr and --momentum as optimizer settings.
 - Use --save-model and --save-path for saving model in the desired path.
 - Use the --no-cuda flag to train on the CPU rather than the GPU through CUDA.
